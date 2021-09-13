@@ -1,1 +1,1 @@
-https://github-readme-stats.vercel.app/api?username={username}
+https://github-readme-stats.vercel.app/api?username={Nidhay Pancholi}
