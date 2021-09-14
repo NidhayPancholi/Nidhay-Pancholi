@@ -25,6 +25,8 @@
    <a target="_blank"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="PowerBI"/> </a>
 </p>
 
+![Nidhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=NidhayPancholi&count_private=true)
 
-[![Nidhay Pancholi's GitHub stats](https://github-readme-stats.vercel.app/api?username=NidhayPancholi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NidhayPancholi)](https://github.com/anuraghazra/github-readme-stats)
+
 
