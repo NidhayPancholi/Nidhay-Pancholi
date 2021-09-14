@@ -27,6 +27,4 @@
 
 ![Nidhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=NidhayPancholi&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NidhayPancholi)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<a href="https://github.com/NidhayPancholi/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NidhayPancholi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
