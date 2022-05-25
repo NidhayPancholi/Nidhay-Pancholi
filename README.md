@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nidhay</h1>
-<h2 align="center">Using my Data interpretation skills for trading </h2>
+<h2 align="center">Here developing my programming skills!</h2>
 
 
 <h2 align="left">Tech Stack</h2>
