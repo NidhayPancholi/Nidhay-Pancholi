@@ -20,31 +20,6 @@
   <!-- Add more language logos as needed -->
 </p>
 
-<h3 align="left">Database Management</h3>
-<p align="left">
-  <!-- Add logos for database management skills -->
-</p>
-
-<h3 align="left">Software Development</h3>
-<p align="left">
-  <!-- Add logos for software development skills -->
-</p>
-
-<h3 align="left">Data Science</h3>
-<p align="left">
-  <!-- Add logos for data science skills -->
-</p>
-
-<h3 align="left">Cloud Platforms</h3>
-<p align="left">
-  <!-- Add logos for cloud platform skills -->
-</p>
-
-<h3 align="left">Other Technologies</h3>
-<p align="left">
-  <!-- Add logos for other technologies -->
-</p>
-
 ## Kaggle Profile
 Explore my Kaggle profile [here](https://www.kaggle.com/nidhaypancholi).
 
